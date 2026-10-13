@@ -1,4 +1,4 @@
-/* WorldBrief — strony prawne/wsparcia. Bez zewnętrznych fontów i skryptów. */
+/* Pale Blue Dot — strony prawne/wsparcia. Bez zewnętrznych fontów i skryptów. */
 :root {
   --bg: #0e1116; --panel: #161b22; --line: #263040; --text: #e6edf3;
   --muted: #9aa6b2; --accent: #7cc4ff; --warn: #ffb86b;
@@ -30,3 +30,4 @@ th, td { text-align: left; vertical-align: top; padding: 8px 6px; border-bottom:
 th { color: var(--muted); font-weight: 600; }
 ol.steps li { margin: 6px 0; }
 footer { margin-top: 48px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--line); padding-top: 16px; }
+.hero { font-size: 19px; margin: 12px 0 24px; }
